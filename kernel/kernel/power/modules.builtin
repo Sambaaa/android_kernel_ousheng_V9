@@ -1,0 +1,6 @@
+kernel/kernel/power/tuxonice_core.ko
+kernel/kernel/power/tuxonice_compress.ko
+kernel/kernel/power/tuxonice_bio.ko
+kernel/kernel/power/tuxonice_swap.ko
+kernel/kernel/power/tuxonice_bio.ko
+kernel/kernel/power/tuxonice_file.ko
